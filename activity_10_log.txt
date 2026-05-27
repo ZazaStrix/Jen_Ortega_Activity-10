@@ -1,0 +1,33 @@
+Logs:
+Hostname: ZazaStrix
+IP Address: 8.8.8.8
+
+User Activity Logs:
+help
+help
+ip a
+ip route
+hostname -I
+ping https://www.sinrevilo.moc
+traceroute https://www.sinrevilo.moc
+netstat -tulnp
+nslookup https://www.sinrevilo.moc
+dig https://www.sinrevilo.moc
+nmap 89.562.1167.1
+nmap https://www.sinrevilo.moc
+nmap -sV https://www.sinrevilo.moc
+nmap -A https://www.sinrevilo.moc
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i eth0
+curl https://www.sinrevilo.moc
+nc 89.562.1167.1 443
+whois 89.562.1167.1
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10.log.txt
+cat activity_10_log.txt
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
